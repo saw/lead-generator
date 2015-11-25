@@ -1,0 +1,15 @@
+{
+  "name": "lead-generator",
+  "version": "1.0.0",
+  "description": "Generate a bunch of leads for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "names": "0.0.2",
+    "plausible-company-name": "^1.0.0"
+  }
+}
